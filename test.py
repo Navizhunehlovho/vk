@@ -32,7 +32,7 @@ ADMIN_IDS = [
 # BRAND
 # =========================================================
 
-GROUP_LINK = "https://vk.com/your_group"
+GROUP_LINK = "https://vk.com/club238794967"
 
 MASTER_LINK = "https://vk.com/your_profile"
 
